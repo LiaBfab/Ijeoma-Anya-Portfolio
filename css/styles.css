@@ -93,3 +93,29 @@ p {
   text-transform: capitalize;
   color: white;
 }
+@media (max-width: 991.98px) {
+  body {
+    margin-bottom: 10px;
+  }
+  h1 {
+    font-size: 56px;
+  }
+  h2 {
+    font-size: 34px;
+  }
+  h3 {
+    font-size: 16px;
+  }
+  p {
+    font-size: 12px;
+    text-align: center;
+  }
+  .launch-link {
+    display: block;
+    text-align: center;
+    padding: 12px 7px;
+  }
+  .email-link {
+    font-size: 14px;
+  }
+}
