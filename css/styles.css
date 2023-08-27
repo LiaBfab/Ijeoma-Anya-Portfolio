@@ -84,6 +84,9 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+.launch-button {
+  margin-top: 48px;
+}
 .launch-link {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
@@ -98,17 +101,30 @@ p {
     margin-bottom: 10px;
   }
   h1 {
-    font-size: 56px;
+    font-size: 42px;
   }
   h2 {
-    font-size: 34px;
+    font-size: 27px;
   }
   h3 {
-    font-size: 16px;
+    font-size: 14px;
   }
   p {
     font-size: 12px;
     text-align: center;
+  }
+
+  .navigation-links a {
+    margin: 10px;
+    border-radius: 4px;
+    padding: 15px 7px;
+    text-decoration: none;
+    text-transform: capitalize;
+  }
+  .launch-button {
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
   }
   .launch-link {
     display: block;
