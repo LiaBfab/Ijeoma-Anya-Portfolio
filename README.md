@@ -1,2 +1,3 @@
 # Ijeoma-Anya-Portfolio
-Ijeoma Lorretta Anya - a young, passionate & creative Front-end Developer, Data Analyst, Statistician, & Entrepreneur. she is a pure definit..
+Ijeoma L. Anya is a passionate Data Analyst and Junior Frontend Developer with a solid background in Statistics.
+Whether it’s building responsive user interfaces, enhancing data visualization, or solving real-world problems, She's committed to providing effective data-related solutions.
